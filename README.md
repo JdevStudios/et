@@ -1,2 +1,2 @@
-# animated-landingpage
-A landing page with beautiful animations created using pure HTML and CSS.
+# landingpage
+A landing page with beautiful animations created using ReactJs that was compiled to HTML, JS, and CSS.
